@@ -4,7 +4,7 @@ namespace phpcron\CronBot;
 
 use Exception;
 
-class Cron
+class cron
 {
     /**
      * Version
