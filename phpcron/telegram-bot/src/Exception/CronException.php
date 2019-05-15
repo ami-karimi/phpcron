@@ -1,6 +1,6 @@
 <?php
 
-namespace CronApp\CronBot\Exception;
+namespace phpcron\CronBot\Exception;
 
 /**
  * Main exception class used for exception handling

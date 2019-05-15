@@ -1,5 +1,5 @@
 {
-  "name": "cronapp/cron-bot",
+  "name": "phpcron/telegram-bot",
   "type": "library",
   "description": "PHP Cron Class For WolfOfPersia bot",
   "keywords": ["cron", "bot", "wolfofperisa"],
@@ -24,7 +24,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "cronapp\\CronBot\\": "src/"
+      "phpcron\\CronBot\\": "src/"
     }
   }
 }

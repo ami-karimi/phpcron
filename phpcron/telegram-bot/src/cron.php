@@ -1,5 +1,5 @@
 <?php
-namespace cronapp\CronBot;
+namespace phpcron\CronBot;
 
 
 use Exception;
