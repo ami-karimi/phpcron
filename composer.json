@@ -1,0 +1,30 @@
+{
+  "name": "cronapp/cron-bot",
+  "type": "library",
+  "description": "PHP Cron Class For WolfOfPersia bot",
+  "keywords": ["cron", "bot", "wolfofperisa"],
+  "license": "MIT",
+  "homepage": "https://wolfofpersia.ir",
+  "support": {
+    "issues": "https://wolfofpersia.ir/page/doc",
+    "source": "https://wolfofpersia.ir/page/source"
+  },
+  "authors": [
+    {
+      "name": "Amir Hossein Karimi",
+      "email": "takfashomal@gmail.com",
+      "homepage": "https://wolfofpersia.ir",
+      "role": "Developer"
+    },
+    {
+      "name": "PHP Telegram Cron Wolf Ofpersia Bot Team",
+      "homepage": "https://wolfofpersia.ir/page/team",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "cronapp\\CronBot\\": "src/"
+    }
+  }
+}
